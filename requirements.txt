@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+google-genai
+python-dotenv
+streamlit
+requests
+pytest
+httpx
+pandas
+openpyxl
+python-multipart

@@ -1,2 +1,8 @@
-# AskMyData
-Ask questions about Excel/CSV data in plain English. AI writes safe, read-only SQL and explains the answer. Built with Python, FastAPI, Streamlit and Gemini
+# pytest cache directory #
+
+This directory contains data from the pytest's cache plugin,
+which provides the `--lf` and `--ff` options, as well as the `cache` fixture.
+
+**Do not** commit this to version control.
+
+See [the docs](https://docs.pytest.org/en/stable/how-to/cache.html) for more information.
